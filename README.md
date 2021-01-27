@@ -1,6 +1,7 @@
 # Android-ActionItemBadge [![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.mikepenz/actionitembadge/badge.svg?style=flat)](https://maven-badges.herokuapp.com/maven-central/com.mikepenz/actionitembadge) [![Android Arsenal](http://img.shields.io/badge/Android%20Arsenal-Android--ActionItemBadge-brightgreen.svg?style=flat)](http://android-arsenal.com/details/1/755)
 
 [![Join the chat at https://gitter.im/mikepenz/Android-ActionItemBadge](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/mikepenz/Android-ActionItemBadge?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FAndroid-ActionItemBadge.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FAndroid-ActionItemBadge?ref=badge_shield)
 
 ActionItemBadge is a library which offers a simple and easy to use method to add a badge to your action item!
 
@@ -112,3 +113,6 @@ call invalidateOptionsMenu() afterwards.
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
     See the License for the specific language governing permissions and
     limitations under the License.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frlfagan%2FAndroid-ActionItemBadge.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frlfagan%2FAndroid-ActionItemBadge?ref=badge_large)
